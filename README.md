@@ -1,2 +1,2 @@
-# mtc-frontend-prod
-javascript code for MTC
+# This is a prod javascript repository is for frontend developers. 
+The infra was last modified by: Larysa Iegarmina
